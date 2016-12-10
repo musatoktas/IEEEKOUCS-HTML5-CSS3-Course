@@ -1,0 +1,11 @@
+<h2>Basic Git Commands</h2>
+
+    git cd //buraya gidilecek klasor yazilir
+    git cd .. //bironceki klasore gider
+    pwd //bulundugunuz path yani directory yi gosterir
+    git checkout gh-pages //Branch degistimeye yarar 
+    browser-sync start --server --directory --files "*" //browser sync acmak icin
+    git clone //Repoyu bilgisayariniza kaydeder
+    git add .. //Dosyayi servera yuklenmesi icin isaretler
+    git commit -m"Buraya commit mesaji giriniz" //Commit mesaji girmenize yarar
+    git push //Server a yukler
